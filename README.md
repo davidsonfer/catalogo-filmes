@@ -14,3 +14,17 @@ Este é um projeto de catálogo de filmes que exibe filmes atuais e populares, u
 - Listagem de Filmes: Mostra uma lista de filmes populares e recentes.
 - Detalhes do Filme: Exibe detalhes específicos ao clicar em um filme.
 - Sistema de Rotas: Navegação entre a página inicial, detalhes do filme e outras possíveis páginas.
+
+
+## Prévia do projeto
+
+### Página inicial
+![Captura de tela 2024-11-09 185013](https://github.com/user-attachments/assets/1487d7bf-e2f3-4e85-b854-b24f8263573e)
+
+### Página de detalhes
+
+![Captura de tela 2024-11-09 185046](https://github.com/user-attachments/assets/1087e805-2a12-4816-8e1e-a615069fc3d8)
+
+### Lista de filmes salvas como favoritos
+
+![Captura de tela 2024-11-09 185113](https://github.com/user-attachments/assets/898ed77c-997d-470e-a9f7-1288c56682d5)
